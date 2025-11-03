@@ -1,7 +1,6 @@
 package com.example.mad_23012011066_practical_5.screen
 
 import android.content.Context
-import android.widget.MediaController
 import androidx.compose.foundation.Image
 import androidx.compose.foundation.layout.Box
 import androidx.compose.foundation.layout.Column
